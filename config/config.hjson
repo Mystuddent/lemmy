@@ -15,7 +15,8 @@
     # username to connect to postgres
     user: "lemmy"
     # password to connect to postgres
-    password: "password2"
+    # 数据库密码
+    password: "password"
     # host where postgres is running
     host: "localhost"
     # port where postgres can be accessed

@@ -15,7 +15,7 @@
     # username to connect to postgres
     user: "lemmy"
     # password to connect to postgres
-    password: "password"
+    password: "password2"
     # host where postgres is running
     host: "localhost"
     # port where postgres can be accessed
